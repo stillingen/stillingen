@@ -1786,5 +1786,9 @@ text-align: right;
 .more-link:hover {
 	background-color: #f15123 !important;
 }
-/* Adding code to test Github
+/* Styling standard Wordpress image gallery 
 ------------------------------------------------------------ */
+#gallery-1 img {
+	border: none !important;
+	padding: 2px;	
+}
